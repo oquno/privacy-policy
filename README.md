@@ -1,4 +1,4 @@
 privacy-policy
 ==============
 
-Privacy Policy
+oquno's privacy policy, available at http://oq.la/tmp/privacy_policy.json
